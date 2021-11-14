@@ -1,0 +1,12 @@
+{
+    "wait": "*[❗] SABAR SEDANG DI PROSES, ORANG SABAR DISAYANG JANDA*",
+    "error": {
+        "Iv": "*⚠️ LINK NYA ERROR*",
+        "api": "*[❗] ADA KESALAHAN SEPERTINYA KARENA BELUM DONASI*"
+    },
+    "OnlyGrup": "*⚠️ ONLY GROUP*",
+    "owner": "*⚠️ ONLY OWNER*",
+    "GrupAdmin": "*⚠️ ONLY ADMIN*",
+    "BotAdmin": "*⚠️ BOT BUKAN ADMIN*",
+    "ban": "*⚠️ LU DAH KE BANNED TOD 😎\nDONASI AUTO UNBAN*"
+}
